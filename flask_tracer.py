@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2019/8/17 15:22
-# @Author  : huziliang@corp.netease.com
-# @File    : flask_tracer.py
 
 import functools
 
