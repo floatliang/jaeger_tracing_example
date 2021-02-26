@@ -1,4 +1,4 @@
-aiohttp==3.5.4
+aiohttp==3.7.4
 flask==1.1.1
 requests==2.22.0
 opentracing==2.2.0
