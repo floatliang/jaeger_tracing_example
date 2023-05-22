@@ -1,6 +1,6 @@
 aiohttp==3.7.4
 flask==1.1.1
-requests==2.22.0
+requests==2.31.0
 opentracing==2.2.0
 gevent==1.4.0
 jaeger_client==4.1.0
